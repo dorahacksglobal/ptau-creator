@@ -4,6 +4,7 @@ Extract and compile from [snarkjs](https://github.com/iden3/snarkjs).
 
 Usage:
 ``` shell
+$ npm install # skip this step if all.zip is used
 $ node index.js 12
 ```
 
